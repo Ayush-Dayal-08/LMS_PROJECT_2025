@@ -60,5 +60,5 @@ npm start
 ```
 
 ## 💬 Contact
-📧 [divyanshipal2808@gmail.com]
+📧 [ayushdayal08@gmail.com]
 
